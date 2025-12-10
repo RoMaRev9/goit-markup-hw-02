@@ -1,3 +1,51 @@
 body {
-  background: #2298cb;
+  color: #434455;
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
 }
+/* } header */
+.header-logo {
+  font-family: Raleway;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 18px;
+
+  line-height: 21px;
+  letter-spacing: 3%;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-dark {
+  color: #2e2f42;
+}
+.nav-link {
+  color: #434455;
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  leading-trim: NONE;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+.nav-link {
+}
+.address {
+  font-style: normal;
+}
+.info-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #404bbf;
+}
+.info-item {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* main */
