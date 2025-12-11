@@ -162,9 +162,12 @@ body {
   font-style: Bold;
   font-size: 36px;
   leading-trim: NONE;
-  line-height: 40px;
-  letter-spacing: ;
   text-align: 02em;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 .portfolio-list {
 }
