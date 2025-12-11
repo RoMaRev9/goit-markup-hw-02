@@ -193,5 +193,6 @@ body {
   font-size: 16px;
   leading-trim: NONE;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
