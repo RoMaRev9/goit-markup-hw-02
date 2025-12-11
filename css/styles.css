@@ -125,6 +125,11 @@ body {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  line-height: 1.11;
+  text-transform: capitalize;
+}
+.team-item {
+  background-color: #ffffff;
 }
 .team-title-text {
   font-family: Roboto;
@@ -159,7 +164,7 @@ body {
   leading-trim: NONE;
   line-height: 40px;
   letter-spacing: ;
-  text-align: center0.02em;
+  text-align: 02em;
 }
 .portfolio-list {
 }
@@ -170,7 +175,8 @@ body {
   font-size: 20px;
   leading-trim: NONE;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .portfolio-text {
   font-family: Roboto;
@@ -179,7 +185,8 @@ body {
   font-size: 16px;
   leading-trim: NONE;
   line-height: 24px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
 /* footer */
 .footer {
