@@ -149,12 +149,6 @@ body {
 /* sections Portfolio */
 .portfolio {
   width: 1440;
-  height: 1240;
-  angle: 0 deg;
-  opacity: 1;
-  top: 1748px;
-  border-width: 1px;
-  color: #e7e9fc;
 }
 .portfolio-title {
   font-family: Roboto;
