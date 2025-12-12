@@ -83,6 +83,9 @@ a {
 .info-item:focus {
   color: #404bbf;
 }
+.address {
+  font-style: normal;
+}
 /* main */
 .hiro {
   background-color: #2e2f42;
@@ -96,7 +99,8 @@ a {
   font-size: 56px;
   line-height: 60px;
   color: #ffffff;
-
+  line-height: 1.07
+text-align: center
   letter-spacing: 0.02em;
 }
 .btn {
@@ -148,11 +152,12 @@ a {
 .team-title {
   font-family: Roboto;
   font-weight: 700;
-  font-style: Bold;
+  
   font-size: 36px;
   line-height: 40px;
   letter-spacing: 0.02em;
   text-align: center;
+  line-height: 1.11;
   color: #2e2f42;
   text-transform: capitalize;
 }
@@ -180,7 +185,7 @@ a {
 .portfolio-title {
   font-family: Roboto;
   font-weight: 700;
-
+text-align: center
   font-size: 36px;
 
   text-align: 02em;
