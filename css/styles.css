@@ -22,7 +22,6 @@ a {
 .logo {
   font-family: Raleway, sans-serif;
   font-weight: 700;
-  font-style: Bold;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -40,8 +39,6 @@ a {
   text-decoration: none;
 }
 .nav-link {
-  color: #434455;
-
   font-family: Roboto;
   font-weight: 500;
   font-size: 16px;
@@ -64,9 +61,7 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.address {
-  font-style: normal;
-}
+
 .info-link {
   text-decoration: none;
   font-weight: 400;
@@ -98,12 +93,10 @@ a {
 .hiro-title {
   font-family: Roboto;
   font-weight: 700;
-  font-style: Bold;
   font-size: 56px;
   line-height: 60px;
-  text-align: center;
   color: #ffffff;
-  line-height: 1.07;
+
   letter-spacing: 0.02em;
 }
 .btn {
@@ -161,7 +154,6 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  line-height: 1.11;
   text-transform: capitalize;
 }
 .team-item {
@@ -170,11 +162,11 @@ a {
 .team-title-text {
   font-family: Roboto;
   font-weight: 500;
-  font-style: Medium;
+
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: center;
+
   color: #2e2f42;
 }
 .team-text {
@@ -188,12 +180,12 @@ a {
 .portfolio-title {
   font-family: Roboto;
   font-weight: 700;
-  font-style: Bold;
+
   font-size: 36px;
-  leading-trim: NONE;
+
   text-align: 02em;
   line-height: 1.11;
-  text-align: center;
+
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
@@ -203,9 +195,9 @@ a {
 .portfolio-title-text {
   font-family: Roboto;
   font-weight: 500;
-  font-style: Medium;
+
   font-size: 20px;
-  leading-trim: NONE;
+
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #2e2f42;
@@ -213,9 +205,9 @@ a {
 .portfolio-text {
   font-family: Roboto;
   font-weight: 400;
-  font-style: Regular;
+
   font-size: 16px;
-  leading-trim: NONE;
+
   line-height: 24px;
   letter-spacing: 0.02em;
   color: #434455;
@@ -230,7 +222,7 @@ a {
 .footer-text {
   font-family: Roboto;
   font-weight: 400;
-  font-style: Regular;
+
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
