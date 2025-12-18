@@ -10,7 +10,9 @@ ol {
 a {
   text-decoration: none;
 }
-
+/* position */
+/* border-bottom */
+/* width */
 /* } header */
 /* #region */
 /* #enregion */
@@ -89,9 +91,9 @@ a {
 /* main */
 .hiro {
   background-color: #2e2f42;
-  width: 1440;
-  height: 600;
-  top: 72px;
+  /* width: 1440; */
+  /* height: 600; */
+  /* top: 72px; */
 }
 .hiro-title {
   font-family: Roboto;
@@ -109,7 +111,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  width: 169px;
+  /* width: 169px; */
   height: 56px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
@@ -180,7 +182,7 @@ a {
 }
 /* sections Portfolio */
 .portfolio {
-  width: 1440;
+  /* width: 1440; */
 }
 .portfolio-title {
   font-family: Roboto;
@@ -220,9 +222,9 @@ a {
 /* footer */
 .footer {
   background-color: #2e2f42;
-  width: 1440;
-  height: 312;
-  top: 2988px;
+  /* width: 1440; */
+  /* height: 312; */
+  /* top: 2988px; */
 }
 .footer-text {
   font-family: Roboto;
