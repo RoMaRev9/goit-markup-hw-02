@@ -101,8 +101,8 @@ a {
   font-size: 56px;
   line-height: 60px;
   color: #ffffff;
-  line-height: 1.07;
-  text-align: center;
+  /* line-height: 1.07; */
+  /* text-align: center; */
   letter-spacing: 0.02em;
 }
 .btn {
@@ -113,7 +113,7 @@ a {
   letter-spacing: 0.04em;
   /* width: 169px; */
   height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  /* box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
   background: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
